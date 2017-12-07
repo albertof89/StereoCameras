@@ -1,0 +1,3 @@
+/home/brain/Documents/StereoCameraSoftware_build/ex_1/CMakeFiles/edit_cache.dir
+/home/brain/Documents/StereoCameraSoftware_build/ex_1/CMakeFiles/rebuild_cache.dir
+/home/brain/Documents/StereoCameraSoftware_build/ex_1/CMakeFiles/test_cv_camera.dir
